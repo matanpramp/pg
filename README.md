@@ -1,3 +1,3 @@
 # pg
 
-This is an amazing repo!
+This is the best repo!
